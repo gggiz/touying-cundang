@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "突破建筑限高 4064",
+    "max_format": 101,
+    "min_format": [101, 1]
+  }
+}
